@@ -1,0 +1,12 @@
+/Users/agostino/repos/rust/learn/rustlings/target/release/deps/console-179f27b39757c98c.rmeta: /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/agostino/repos/rust/learn/rustlings/target/release/deps/libconsole-179f27b39757c98c.rlib: /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/agostino/repos/rust/learn/rustlings/target/release/deps/console-179f27b39757c98c.d: /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs:

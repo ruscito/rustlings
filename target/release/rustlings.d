@@ -1,0 +1,1 @@
+/Users/agostino/repos/rust/learn/rustlings/target/release/rustlings: /Users/agostino/repos/rust/learn/rustlings/src/exercise.rs /Users/agostino/repos/rust/learn/rustlings/src/main.rs /Users/agostino/repos/rust/learn/rustlings/src/run.rs /Users/agostino/repos/rust/learn/rustlings/src/ui.rs /Users/agostino/repos/rust/learn/rustlings/src/verify.rs

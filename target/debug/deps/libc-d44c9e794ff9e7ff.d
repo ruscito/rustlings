@@ -1,0 +1,12 @@
+/Users/agostino/repos/rust/learn/rustlings/target/debug/deps/libc-d44c9e794ff9e7ff.rmeta: /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/lib.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/macros.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/fixed_width_ints.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/mod.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/mod.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/apple/mod.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/apple/b64.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/align.rs
+
+/Users/agostino/repos/rust/learn/rustlings/target/debug/deps/libc-d44c9e794ff9e7ff.d: /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/lib.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/macros.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/fixed_width_ints.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/mod.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/mod.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/apple/mod.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/apple/b64.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/align.rs
+
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/lib.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/macros.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/fixed_width_ints.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/mod.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/mod.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/apple/mod.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/bsd/apple/b64.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.58/src/unix/align.rs:

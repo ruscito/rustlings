@@ -1,0 +1,10 @@
+/Users/agostino/repos/rust/learn/rustlings/target/debug/deps/parking_lot_core-b0e865ff9914443f.rmeta: /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/unix.rs
+
+/Users/agostino/repos/rust/learn/rustlings/target/debug/deps/parking_lot_core-b0e865ff9914443f.d: /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs /Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/unix.rs
+
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/lib.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/parking_lot.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/spinwait.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/util.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/word_lock.rs:
+/Users/agostino/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.5.0/src/thread_parker/unix.rs:
